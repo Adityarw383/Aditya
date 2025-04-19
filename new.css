@@ -1,0 +1,46 @@
+h2{
+    text-align:center;
+    color: orange;
+
+}
+button{
+    color :white;
+    background : blue;
+
+}
+p{
+    color:rgb(0,255,120);
+    background-color:black;
+    font-style:italic
+}
+h1{
+    letter-spacing:unset;
+}
+h3{
+    text_align:center;
+
+}
+    h2{
+line-height:2.5;
+    }
+   h5 {
+     text-decoration:underline   
+    }
+h6{
+    text-decoration: line-through;
+}
+#myId{
+    color:blue;
+}
+.a{
+    color:Red;
+}
+p a{
+    color: rgba(0, 0, 0, 0);
+}
+h9{
+    font-weight:bolder;
+}
+h10{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
